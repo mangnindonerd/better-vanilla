@@ -1,0 +1,36 @@
+- 9 corals -> 1 corresponding coral block
+- 2 basalt + 2 coal -> 4 blackstone
+- 2 polished basalt + 2 coal -> 4 polished blackstone
+- 6 leather + 2 string -> 1 bundle
+- 6 rabbit hide + 2 string -> 1 bundle
+- 2 iron ingot + 2 paper + 1 string -> 1 name tag
+- 3 blackstone + 1 blaze rod -> 1 brewing stand
+- 7 blackstone + 1 bow + 1 redstone -> 1 dispenser
+- 7 blackstone + 1 redstone -> 1 dropper
+- 1 stick + 1 blackstone -> 1 lever
+- 6 blackstone + 2 redstone + 1 quartz -> 1 observer
+- 3 planks + 4 blackstone + 1 iron ingot + 1 redstone -> 1 piston
+- 3 string + 3 stick + 1 dropper -> 1 dispenser
+- 1 dropper + 1 bow -> 1 dispenser
+- 6 material + 1 saddle -> corresponding horse armor
+- 4 flint -> 1 gravel
+- 6 block -> 8 corresponding stairs
+- 4 log -> 4 corresponding wood
+- smelting: concrete powder -> corresponding stained glass
+- smelting: rotten flesh -> leather
+- 8 sand + 1 red dye -> 8 red sand
+- 2 sandstone + 1 red dye -> 2 red sandstone
+- 2 smooth sandstone + 1 red dye -> 2 smooth red sandstone
+- 2 slabs -> 1 corresponding block
+- 4 stairs -> 3 corresponding blocks
+- 1 packed ice -> 9 ice
+- 1 blue ice -> 9 packed ice
+- 1 nether wart block -> 9 nether wart
+- Universal dyeing (refer to https://www.youtube.com/watch?v=lfcwKXhjC9Y&t=610s)
+- 1 wool -> 4 string
+
+Additionally I have added some crafting recipes with the help of https://crafting.thedestruc7i0n.ca/:
+- 3 leather + 2 lead + 2 tripwire hook -> 1 saddle
+- 1 iron ingot + 2 iron nuggets -> 3 chain
+- Smithing: 1 golden apple + 1 netherite ingot -> 1 enchanted golden apple
+- Chainmail armor can now be crafted using chains. With the change in the chain crafting recipe, full chainmail armor can be crafted with 10 iron ingots and 2 iron nuggets remaining. Compared to the 24 iron ingots needed to craft full iron armor, chainmail armor is now a more affordable early game alternative to iron armor.
