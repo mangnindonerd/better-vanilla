@@ -14,3 +14,14 @@ For a full list of all the changes made to minecraft, refer to the [wiki](https:
 [Using data packs](https://minecraft.fandom.com/wiki/Tutorials/Installing_a_data_pack)
 
 (It is possible that a warning will appear, that some datapacks are not compatible with the current minecraft version. However if you are using java 1.17, then there should be no problems and the warning can be ignored.)
+
+# additional recommended installations
+[Optifine](https://optifine.net/downloads)
+
+[Fabric Loader](https://fabricmc.net/use/)
+
+[Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
+
+[Worldedit](https://www.curseforge.com/minecraft/mc-mods/worldedit)
+
+[Immersive Portals](https://www.curseforge.com/minecraft/mc-mods/immersive-portals-mod)
