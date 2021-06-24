@@ -5,6 +5,9 @@ For a full list of all the changes made to minecraft, refer to the [wiki](https:
 # supported minecraft version:
 - Java 1.17
 
+# changelog
+2021.06.24 significantly reduced mobhead droprates. Updated the wiki accordingly.
+
 # installation
 [Using resource packs](https://minecraft.fandom.com/wiki/Tutorials/Loading_a_resource_pack)
 
