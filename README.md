@@ -17,6 +17,8 @@ For a full list of all the changes made to minecraft, refer to the [wiki](https:
 (It is possible that a warning will appear, that some datapacks are not compatible with the current minecraft version. However if you are using a version listed under the currently supported versions, then there should be no problems and the warning can be ignored.)
 
 # additional recommended installations
+[OptiFabric](https://www.curseforge.com/minecraft/mc-mods/optifabric)
+
 [Optifine](https://optifine.net/downloads)
 
 [Fabric Loader](https://fabricmc.net/use/)
