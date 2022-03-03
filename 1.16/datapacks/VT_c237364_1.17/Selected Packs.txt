@@ -1,0 +1,9 @@
+Vanilla Tweaks Crafting Tweaks
+Version: 1.16
+Packs:
+	more trapdoors
+	more bark
+	more stairs
+	more bricks
+	craftable notch apples
+	unpackable nether wart
