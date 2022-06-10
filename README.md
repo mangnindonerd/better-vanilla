@@ -7,6 +7,7 @@ For a full list of all the changes made to minecraft, refer to the [wiki](https:
 - Java 1.17
 - Java 1.17.1
 - Java 1.18.1
+- Java 1.19
 
 # changelog
 - 2021.06.24: significantly reduced mobhead droprates. Updated the [corresponding wiki page](https://github.com/mangnindonerd/better-vanilla/wiki/mobhead-droprates) accordingly.
